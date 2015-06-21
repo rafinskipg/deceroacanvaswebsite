@@ -199,6 +199,9 @@ img{
     height: 200px;
     overflow: hidden;
     padding: 0;
+    img{
+      min-width : 100%;
+    }
   }
 }
 
